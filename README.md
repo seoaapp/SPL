@@ -1,7 +1,7 @@
 # SEOA PUBLIC LICENSE (a.k.a SPL)
 ## The original repository of SEOA PUBLIC LICENSE
 
-# Versioning
+# Version
 SPL's Versions are following the [Semantic Versioning 2.0.0](https://semver.org/)
 
 | Version | Release Date | Fixed Date |
